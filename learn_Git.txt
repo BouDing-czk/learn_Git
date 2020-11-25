@@ -1,1 +1,2 @@
 learn Git version 1
+learn Git version 2
